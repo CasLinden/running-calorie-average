@@ -196,11 +196,6 @@
 	<div class="calendar-grid">
 		<div class="calendar-header">
 			<div class="day-name">Sun</div>
-			<div class="day-name">Mon</div>
-			<div class="day-name">Tue</div>
-			<div class="day-name">Wed</div>
-			<div class="day-name">Thu</div>
-			<div class="day-name">Fri</div>
 			<div class="day-name">Sat</div>
 		</div>
 		{#each calendarDates as date}
